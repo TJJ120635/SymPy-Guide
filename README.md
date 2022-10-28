@@ -3,9 +3,9 @@
 SymPy 是一个由 Python 语言编写的符号计算库
 
 下面使用 JupyterLab 总结了一些 SymPy 的使用方法：
-- SymPyQuick.ipynb 快速上手教程
-- SymPyGuide.ipynb 更详细的介绍文档
-- SymPyMatrix.ipynb 关于向量和矩阵求导的介绍文档
+- SympyQuick.ipynb 快速上手教程
+- SympyGuide.ipynb 更详细的介绍文档
+- SympyMatrix.ipynb 关于向量和矩阵求导的介绍文档
 
 参考：
 - 官方教程 https://docs.sympy.org/latest/index.html
